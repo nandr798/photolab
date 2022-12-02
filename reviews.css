@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body{
+    font-family: cursive;
+}
+
+.photographer{
+    width:400px;
+    height:700px;
+}
+
+.float-container{
+    display: flex;
+  justify-content: center;
+  font-family: cursive;
+}
+

@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.float-container {
+    border: 3px;
+    padding: 20px;
+    font-family: cursive;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px ;
+}  
+
+.row{
+    width:50px;
+    height:50px;
+}
